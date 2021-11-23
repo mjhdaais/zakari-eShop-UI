@@ -1,1 +1,1 @@
-# zakari-eShop-UI
+# Zakari eShop UI
